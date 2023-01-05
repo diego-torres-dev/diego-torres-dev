@@ -13,12 +13,6 @@ Seja bem-vindo(a) a meu perfil GitHub!
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diego-torres-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 
-## Sobre Mim
-
-- Atualmente estou aprendendo a criar RESTful APIs com Flask
-- Pergunte-me sobre Flask
-- Em breve, estarei aprendendo FastAPI
-
 ## Ferramentas e Tecnologias
 
 Veja a seguir as tecnologias e ferramentas com as quais me sinto confortável em trabalhar.
